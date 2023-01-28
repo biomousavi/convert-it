@@ -1,0 +1,7 @@
+name = "bacar-demo"
+main = "./.output/server/index.mjs"
+workers_dev = true
+compatibility_date = "2022-09-10"
+account_id = "14115c2d6d56601c607c55fb374baaae"
+[site]
+bucket = ".output/public"
