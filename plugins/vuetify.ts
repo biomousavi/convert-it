@@ -1,4 +1,3 @@
-import 'vuetify/dist/vuetify.min.css';
 import { createVuetify } from 'vuetify';
 import { mdi } from 'vuetify/iconsets/mdi-svg';
 

@@ -2,6 +2,7 @@
 import vuetify from 'vite-plugin-vuetify';
 
 export default defineNuxtConfig({
+  css: ['vuetify/dist/vuetify.min.css'],
   build: {
     transpile: ['vuetify'],
   },
