@@ -15,7 +15,7 @@ onMounted(() => {
   <VApp>
     <AppHead />
 
-    <div class="container">
+    <div class="container overflow-hidden">
       <div ref="scene" class="scene w-100 h-100">
         <div class="w-100 h-100" data-depth="0.3">
           <VImg class="glasses" src="/glasses.png" width="10%" />
