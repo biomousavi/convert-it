@@ -12,6 +12,7 @@
     "@mdi/js": "^7.1.96",
     "@nuxtjs/eslint-config-typescript": "^12.0.0",
     "@types/eslint": "^8",
+    "@types/parallax-js": "^3.1.0",
     "@types/prettier": "^2",
     "eslint": "^8.32.0",
     "eslint-config-prettier": "^8.6.0",
@@ -28,9 +29,9 @@
     "yarn": "4.0.0-rc.36"
   },
   "dependencies": {
-    "@pinia/nuxt": "^0.4.6",
-    "@vueuse/core": "^9.11.1",
-    "pinia": "^2.0.29",
+    "@ffmpeg/core": "^0.11.0",
+    "@ffmpeg/ffmpeg": "^0.11.6",
+    "parallax-js": "^3.1.0",
     "vuetify": "^3.1.2"
   }
 }

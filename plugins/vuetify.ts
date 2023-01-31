@@ -3,7 +3,6 @@ import { mdi } from 'vuetify/iconsets/mdi-svg';
 
 export default defineNuxtPlugin((nuxtApp) => {
   const vuetify = createVuetify({
-    ssr: true,
     icons: {
       defaultSet: 'mdi',
       sets: {
