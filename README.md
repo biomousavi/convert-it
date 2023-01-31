@@ -1,6 +1,5 @@
-# Nuxt 3 Minimal Starter
-
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+# Convert It
+Online Video Converter. A free web app that converts video files, allowing you to change the video format, resolution or size right in your browser.
 
 ## Setup
 
@@ -38,5 +37,3 @@ Locally preview production build:
 ```bash
 npm run preview
 ```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
