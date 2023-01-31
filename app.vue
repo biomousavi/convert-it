@@ -35,7 +35,7 @@ function download() {
     link.href = outputUri.value;
     document.body.appendChild(link);
 
-    // star downloading
+    // start downloading
     link.click();
 
     // remove created element
@@ -107,9 +107,7 @@ async function onChangeInput({ target }: Event) {
   }
 }
 
-onMounted(() => {
-  new Parallax(scene.value!, { hoverOnly: true });
-});
+onMounted(() => new Parallax(scene.value!, { hoverOnly: true }));
 </script>
 
 <template>
